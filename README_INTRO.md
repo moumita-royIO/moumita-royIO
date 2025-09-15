@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Moumita Roy
 
-## 🚀 About Me
-
-Hello! I'm Moumita Roy, a **Technical Services Engineer** with a seasoned background in **cloud services**, **DevOps**, and **Linux system management**. I'm passionate about resolving complex technical challenges, automating workflows, and building scalable, secure solutions. My experience spans from supporting critical production environments to designing and implementing serverless architectures.
+A **Technical Services Engineer** with a seasoned background in **cloud services**, **DevOps**, and **Linux system management**. I'm passionate about resolving complex technical challenges, automating workflows, and building scalable, secure solutions. My experience spans from supporting critical production environments to designing and implementing serverless architectures.
 
 **My expertise includes:**
 
@@ -15,38 +13,22 @@ Hello! I'm Moumita Roy, a **Technical Services Engineer** with a seasoned backgr
 ## 🔧 Technologies & Tools
 
 ```text
-☁️  Cloud Platforms   │ AWS (EC2, S3, Lambda, RDS, CloudFormation)
+☁️  Cloud Platforms   │ AWS , Microsoft Azure basics
 🛠️  Infrastructure    │ Terraform (IaC), Docker, KVM Virtualization
 🐧 Operating Systems │ Linux (Administration & Troubleshooting)
-📜 Scripting         │ Python (Automation & DevOps)
+📜 Scripting         │ Python3 (Automation & DevOps)
 🗄️  Databases         │ MongoDB (NoSQL Database Management)
-🔒 Security & SIEM    │ Splunk (Log Analysis), Microsoft Entra ID
+🔒 Security & SIEM    │ Splunk (Log Analysis), Microsoft Entra ID (IAM)
 🌐 Networking        │ Network Troubleshooting, Security Configuration
 ```
 
-## 🎯 What I'm Currently Working On
+## What I Have Been Engineering On
 
 - ☁️ **Cloud Infrastructure**: Designing and implementing scalable AWS solutions with Terraform
 - 🔧 **DevOps Automation**: Streamlining deployment pipelines and infrastructure management
 - 🔒 **Security & Monitoring**: Enhancing SIEM capabilities and security monitoring with Splunk
 - 🐧 **System Administration**: Optimizing Linux environments and virtualization solutions
 - 📚 **Technical Documentation**: Creating comprehensive guides for complex technologies
-
-## 📖 Recent Learning Journey
-
-I'm currently diving deep into:
-- Advanced AWS serverless architectures and microservices
-- Infrastructure as Code best practices with Terraform
-- Advanced SIEM log analysis and threat detection with Splunk
-- MongoDB performance optimization and database security
-- Advanced virtualization techniques with KVM and QEMU
-
-## 📈 GitHub Stats
-
-![Moumita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
 
 ## What Sets Me Apart
 
@@ -55,7 +37,6 @@ I'm currently diving deep into:
 - **Security-First Approach**: Heavy background in SIEM analysis and identity management
 - **Automation Enthu**: Passionate about automating workflows and infrastructure management
 - **Continuous Learning**: Always exploring new cloud technologies and DevOps best practices
-
 
 ## Knowledge Sharing
 
@@ -70,6 +51,12 @@ I believe in the power of knowledge sharing and open-source collaboration. Feel 
 - I read system documentation for fun (seriously!)
 - I believe the best way to learn is by doing
 
+## GitHub Stats
+
+![Moumita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moumita-royIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moumita-royIO&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
-**"The best way to predict the future is to create it."** - Let's build or repro things just like engineers!
+**"The best way to predict the future is to create it."**
